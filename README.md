@@ -1,14 +1,16 @@
 *PROJECT INFO*
 
-Datasets downloaded:
+*Datasets downloaded:*
+
 Legal Parcels https://opendata.kelowna.ca/datasets/kelowna::legal-parcel/about
 Address Points https://opendata.kelowna.ca/datasets/kelowna::address-points/about
 Dataset from direct city request
 
-GOALS
+*GOALS*
+
 Replicate this analysis: [Taxing Land,Not Homes A Revenue-Neutral Path to Unlock Spokane's Underused Land](https://landeconomics.org/reports/spokane-report)
 
-NEED
+*NEED*
 The property tax data for every address. 
 
 Steps
